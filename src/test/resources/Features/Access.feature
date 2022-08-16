@@ -1,5 +1,5 @@
 @IX-2
-Feature: Acces to the website
+Se connecter à mon compte TA
 
   @IX-1
   Scenario Outline: Se connecter à mon compte TA
