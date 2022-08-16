@@ -1,5 +1,5 @@
 @IX-2
-Se connecter à mon compte TA
+Feature: Se connecter à mon compte TA
 
   @IX-1
   Scenario Outline: Se connecter à mon compte TA
