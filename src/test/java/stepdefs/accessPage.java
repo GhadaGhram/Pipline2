@@ -53,11 +53,5 @@ public void verifier(String arg1){
 	v= arg1;
 }
 
-public void tacheComplete(){
-        driver.findElement(By.xpath("//*[@id=\"toggle-all\"]")).click();
-}
-public void tacheCloturer() {
-	driver.findElement(Com).isDisplayed();
-}
 
 }
