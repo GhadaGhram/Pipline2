@@ -1,7 +1,7 @@
-@IX-20
+@INES
 Feature: Se connecter à mon compte TA
 
-  @Test_IX-3
+  @Test_Ghada
   Scenario Outline: Se connecter à mon compte TA
     Given browser is open user put the link of the website
     When write <todo> and clicks enter
