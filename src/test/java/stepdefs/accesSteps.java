@@ -36,10 +36,10 @@ public class accesSteps {
 
 
 	@Then("^the writen (.*) will be added to the list$")
-	public void the_writen_ToDo_will_be_added_to_the_list(String arg1) {
-		 access.verifier(arg1);
+	//public void the_writen_ToDo_will_be_added_to_the_list(String arg1) {
+		// access.verifier(arg1);}
 				
-}
+
 	
 }	
 
